@@ -1,0 +1,3 @@
+To ensure that the software is functional and secure, testing was prioritized throughout development. Functionality was verified through automated JUnit unit tests that validated expected behavior and error handling. User needs were interpreted by analyzing project requirements and translating them into validation rules and functional behaviors within the code. The software was designed to align with user expectations and functional goals. The software was designed using a modular approach to promote maintainability. Unit tests were written alongside the application code to verify correctness and support iterative development, ensuring that quality was maintained as features were implemented. 
+
+ 
